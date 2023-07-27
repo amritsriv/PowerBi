@@ -1,0 +1,17 @@
+🚀 Excited to share my latest Power BI Project 🚀
+Today marks a significant milestone as I successfully crafted my third dashboard, dedicated to @Zomato Bangalore Analysis, utilizing the powerful capabilities of Power BI Desktop. 
+The process involved several key steps:
+1.	Data Gathering: I connected the database with Power BI Desktop using CSV files, and the data source was obtained from @Kaggle, providing a rich and comprehensive dataset to work with.
+2.	Data Cleaning: With the power of Power Query Editor, I efficiently cleaned the data, ensuring accuracy and consistency for the subsequent analyses.
+3.	Table and Relationship Analysis: I dived deep into the data to identify patterns, trends, and insights by meticulously analysing the tables and establishing relationships between them to form a robust data model.
+4.	Dashboard Creation: The culmination of this project was the creation of an intuitive and visually appealing dashboard that presents the key findings and visualizations in a clear and concise manner.
+📊 "Zomato Bangalore Analysis" Dashboard Highlights 📊
+1.	Top Restaurant Chains: Discover the leading restaurant chains in Bangalore based on popularity and customer reviews, helping you make informed dining choices.
+2.	Online Order Availability: Find out how many restaurants in Bangalore do not accept online orders. This information can be crucial for those who prefer the convenience of ordering online.
+3.	Table Booking Ratio: Gain insights into the ratio between restaurants that provide table booking options and those that do not. This data can be valuable for planning your dining experiences in advance.
+4.	Rating Distribution: Explore the distribution of restaurant ratings in Bangalore, giving you an overview of the overall dining scene's quality and customer satisfaction.
+5.	Cost vs. Rating: Analyse the relationship between the cost of dining and restaurant ratings. This comparison can help you identify whether higher-priced restaurants generally offer better-rated experiences.
+6.	Cost Distribution for Two People: Understand the cost distribution for dining at restaurants in Bangalore for two people, enabling you to budget accordingly.
+7.	Most Common Restaurant Types: Identify the most prevalent restaurant types in Bangalore, making it easier for you to find your favourite cuisines and dining experiences.
+8.	Foodie Areas: Discover the areas in Bangalore that are a haven for foodies, with a high concentration of diverse and top-rated restaurants.
+#PowerBI #Kaggle #Database #SQL #DataVisualization #DataAnalysis #FoodIndustryInsights #BangaloreFoodScene #ZomatoAnalysis #DashboardInsights #BusinessIntelligence #DataDrivenDecisions #FoodieLife #RestaurantIndustry #DataEnthusiast
